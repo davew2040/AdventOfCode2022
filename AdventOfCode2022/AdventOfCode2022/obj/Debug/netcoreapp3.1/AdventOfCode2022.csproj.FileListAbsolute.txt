@@ -1,0 +1,14 @@
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\netcoreapp3.1\AdventOfCode2022.csprojAssemblyReference.cache
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\netcoreapp3.1\AdventOfCode2022.AssemblyInfoInputs.cache
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\netcoreapp3.1\AdventOfCode2022.AssemblyInfo.cs
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\netcoreapp3.1\Day01\input.txt
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\netcoreapp3.1\AdventOfCode2022.exe
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\netcoreapp3.1\AdventOfCode2022.deps.json
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\netcoreapp3.1\AdventOfCode2022.runtimeconfig.json
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\netcoreapp3.1\AdventOfCode2022.runtimeconfig.dev.json
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\netcoreapp3.1\AdventOfCode2022.dll
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\netcoreapp3.1\AdventOfCode2022.pdb
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\netcoreapp3.1\AdventOfCode2022.dll
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\netcoreapp3.1\AdventOfCode2022.pdb
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\netcoreapp3.1\AdventOfCode2022.genruntimeconfig.cache
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\netcoreapp3.1\Day02\input.txt
