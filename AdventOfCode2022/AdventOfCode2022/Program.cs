@@ -1,4 +1,4 @@
-﻿using AdventOfCode2022.Day02;
+﻿using Day = AdventOfCode2022.Day05;
 using System;
 using System.Threading.Tasks;
 
@@ -8,7 +8,7 @@ namespace AdventOfCode2022
     {
         static async Task Main(string[] args)
         {
-            var day = new Day02Part02();
+            var day = new Day.Day05Part2();
             await day.Run();
         }
     }
