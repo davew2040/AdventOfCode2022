@@ -20,8 +20,9 @@ namespace AdventOfCode2022.Day07
             const int target = 30000000;
             const int total = 70000000;
 
-            var largeEnough = Find(root, node => {
-                return node.IsDirectory && total - (currentSize - this.GetSize(node)) >= target;
+            var largeEnough = Find(root, node => 
+                {
+                    return node.IsDirectory && total - (currentSize - this.GetSize(node)) >= target;
                 });
             var smallest = largeEnough.OrderBy(n => GetSize(n)).First();
 
@@ -78,13 +79,13 @@ namespace AdventOfCode2022.Day07
             return result;
         }
 
-        private void Visit(FileSystemNode node, Action<FileSystemNode> action)
+        private void VisitAll(FileSystemNode node, Action<FileSystemNode> action)
         {
             action(node);
 
             foreach (var child in node.Children)
             {
-                Visit(child, action);
+                VisitAll(child, action);
             }
         }
 
@@ -92,7 +93,7 @@ namespace AdventOfCode2022.Day07
         {
             List<FileSystemNode> match = new();
 
-            this.Visit(node, node =>
+            this.VisitAll(node, node =>
             {
                 if (pred(node))
                 {
