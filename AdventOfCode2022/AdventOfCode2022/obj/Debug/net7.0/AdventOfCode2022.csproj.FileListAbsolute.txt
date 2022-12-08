@@ -22,3 +22,5 @@ I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\net
 I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\net7.0\Day05\sample.txt
 I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\net7.0\Day06\sample.txt
 I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\net7.0\Day06\input.txt
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\net7.0\Day07\sample.txt
+I:\Dev\Practice\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\net7.0\Day07\input.txt
